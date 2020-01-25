@@ -1,6 +1,6 @@
-# Alexa Deep Drive 第7章 TypeScript x VS Code x Alexa開発 ソースコードリポジトリ
+# Alexa Deep Drive 第7章 TypeScript x VS Code x Alexaスキル開発 ソースコードリポジトリ
 
-[技術書典8](https://techbookfest.org/event/tbf08)にて頒布された[Alexa Deep Dive](xxx) 第7章 TypeScript x VS Code x Alexa開発のソースコードリポジトリになります。  
+[技術書典8](https://techbookfest.org/event/tbf08)にて頒布された[Alexa Deep Dive](xxx) 第7章 TypeScript x VS Code x Alexaスキル開発のソースコードリポジトリになります。  
 
 ## 章の概要
 昨今波に乗りまくっているTypeScriptを用いてAlexaスキルを超効率爆速開発できるようになるため、JavaScriptで書かれたAlexaスキルを移植しながらTypeScriptを身に着けていきます。  
